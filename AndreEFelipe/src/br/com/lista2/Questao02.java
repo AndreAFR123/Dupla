@@ -1,4 +1,4 @@
-package arraylernum;
+package br.com.lista2;
 
 public class Questao02 {
 

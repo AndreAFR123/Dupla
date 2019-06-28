@@ -1,4 +1,6 @@
-package arraylernum;
+package br.com.lista2;
+
+import br.com.util.Teclado;
 
 public class Questao06 {
 

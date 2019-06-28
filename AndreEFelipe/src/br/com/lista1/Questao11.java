@@ -1,4 +1,4 @@
-package array;
+package br.com.lista1;
 
 import br.com.util.Teclado;
 
